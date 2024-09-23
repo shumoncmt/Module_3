@@ -19,8 +19,15 @@ size{
   
     width: 300px;
     height: 300px;
-    background-image: url("https://greengenesisbd.com/wp-content/uploads/2023/09/9-e1692181811974.jpg");
+    background-color: antiquewhite;
+    box-shadow:0cqb;
 }
 .h-color{
     color: rgb(22, 201, 117);
+}
+.sts{
+    width: 500px;
+    height: 400px;
+    background-image: url("https://greengenesisbd.com/wp-content/uploads/2021/03/All-Products-01.jpg");
+    
 }
